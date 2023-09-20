@@ -4,7 +4,7 @@ Maps are a part of the C++ STL.Maps are associative containers that store elemen
 Map Template:
 
 std::map <key_type, data_type>
-Declaration:
+Declaration: 
 
 map<string,int>m; //Creates a map m where key_type is of type string and data_type is of type int.
 Size:
